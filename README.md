@@ -9,9 +9,9 @@
 * ...
 
 ### Screenshots
-![source_code_with_junit](https://github.com/Bekhongbikcode/mathutil-ant/blob/master/screenshots/sourceode_with_junit.png)
+![source_code_with_junit](https://github.com/dooptu/mathutil-ant/blob/main/screenshots/sourceode_with_junit.png?raw=true)
 
 
 
-### Connect me via maithanhtam13122002@gmail.com
-#### Copyright &#169; 2023 Bekhongbikcode 
+### Connect me via nguyenminhtu.ttn@gmail.com
+#### Copyright &#169; 2023 dooptu
